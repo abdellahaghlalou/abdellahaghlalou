@@ -1,23 +1,9 @@
 <h1 align="center">Hello World 👋 I'm Abdellah Aghlalou</h1>
 
 <br>
-- 🔭 I’m currently working on Developing my Data skills
-- ⚡ I’m looking to collaborate on **ML & DL Projects **
-- 💬 Contact me on Linkedin :[**My Linkedin Profile**](https://www.linkedin.com/in/abdellah-aghlalou-7aa4031a1/)
-- 📫 My email address :**abdellah-aghlalou@outlook.fr**
-
+- 🔭 I’m currently working on Developing my Data skills<br>
+- ⚡ I’m looking to collaborate on **ML & DL Projects **<br>
+- 💬 Contact me on Linkedin :[**My Linkedin Profile**](https://www.linkedin.com/in/abdellah-aghlalou-7aa4031a1/)<br>
+- 📫 My email address :**abdellah-aghlalou@outlook.fr**<br>
+<br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abdellahaghlalou&theme=highcontrast&show_icons=true&count_private=true)
-<!--
-**abdellahaghlalou/abdellahaghlalou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
