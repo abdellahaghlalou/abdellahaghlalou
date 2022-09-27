@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hello World 👋 I'm Abdellah Aghlalou</h1>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abdellahaghlalou&theme=highcontrast&show_icons=true&count_private=true)
 <!--
 **abdellahaghlalou/abdellahaghlalou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
