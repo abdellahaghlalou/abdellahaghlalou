@@ -9,4 +9,5 @@
 
 <br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=abdellahaghlalou&theme=highcontrast&show_icons=true&count_private=true)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=abdellahaghlalou&theme=highcontrast&show_icons=true&count_private=true) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellahaghlalou)](https://github.com/anuraghazra/github-readme-stats)
